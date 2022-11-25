@@ -1,1 +1,1 @@
-const myNmae = "Amaka"
+const myNmae = "Amaka BREAKFAST"
